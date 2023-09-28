@@ -3,7 +3,7 @@
         <section class="col-span-2 flex justify-center">
             <img class="h-[600px]" src="@/assets/planets/earth.svg" alt="Planeta">
         </section>
-        <section>
+        <section class="text-white" style="padding-top: 12rem; font-size: 1.5rem;">
             <h1>EARTH</h1>
             <p>La Tierra es tu hogar, un planeta único en el vasto universo. Con una diversidad asombrosa, te ofrece montañas majestuosas, vastos océanos, selvas exuberantes y desiertos misteriosos. Su atmósfera te brinda el aire que respiras y protege contra el frío del espacio.</p>
             <label for="">
